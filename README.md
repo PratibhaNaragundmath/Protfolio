@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pratibha Naragundmath – Personal Portfolio Website
 
 A modern, responsive, high-performance personal portfolio website built with **HTML5, CSS3, JavaScript, and Bootstrap 5.3**, crafted specifically from Pratibha Naragundmath's resume.
@@ -82,3 +83,6 @@ Then visit `http://localhost:8000` in your web browser.
   ```
 - **Social Links**: Update your GitHub, LinkedIn, and contact info in `index.html`.
 - **New Projects**: Add new project cards inside `<div class="row g-4">` in the `#projects` section using the `project-item` class.
+=======
+# Protfolio
+>>>>>>> a7966ae5e4992fe901a81289ba4644bd68383ed5
